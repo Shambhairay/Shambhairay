@@ -61,7 +61,7 @@ technologies to meet future requirements.</br>
  - 📍 **J.D Public school**------------------**< 2017-2019 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
- - 📍 **JOSEPH'S ACADEMY SARAI BOX BHELDI SARAN BR**------------------**< 2015-2017 >**\
+ - 📍 **JOSEPH'S ACADEMY SARAI BOX BHELDI SARAN BR**------------------**< 2014-2017 >**\
    📖**Secondary Schooling**
  
    
