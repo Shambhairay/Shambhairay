@@ -6,10 +6,10 @@
 
 ### Hi there, I'm [Shambhavi Ray](https://www.linkedin.com/in/shambhavi-ray-82733a226/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Currently I am pursuing a B.Tech in information technology from College of Engineering Roorkee.I did my schooling from J.D Public School.I'm learning web development,intermediate knowledge in DSA.I enjoy solving real lifee problems using programming skills. 
+Currently I am pursuing a B.Tech in information technology from College of Engineering Roorkee.I did my schooling from J.D Public School.I'm learning web development,intermediate knowledge in DSA.I enjoy solving real life problems using programming skills. 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akankushjnvku&label=Profile%20views&color=32CD32&style=flat" alt="akankushjnvku" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shambhairay&&label=Profile%20views&color=32CD32&style=flat%22" alt="akankushjnvku" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
