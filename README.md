@@ -28,7 +28,7 @@ Currently I am pursuing a B.Tech in information technology from College of Engin
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **akankush2000@gmail.com** && **ankush@mackph.com**
+- 📫 Reach me at : **shambhaviray1@gmail.com** 
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
@@ -58,10 +58,10 @@ technologies to meet future requirements.</br>
  - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
  📖**Bachelor's of technology-< Information Technology >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
+ - 📍 **J.D Public school**------------------**< 2017-2019 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
+ - 📍 **JOSEPH'S ACADEMY SARAI BOX BHELDI SARAN BR**------------------**< 2015-2017 >**\
    📖**Secondary Schooling**
  
    
