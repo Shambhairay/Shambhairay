@@ -59,11 +59,11 @@ technologies to meet future requirements.</br>
    
  ## Experience
  -  👨‍💻 ** Web Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
+ 📆 Feb,2022 - April,2022\
 📍 **TwoWaits Technologies** - New Delhi, India
    
  -  👨‍💻 **Trainee**----------------------< Apprenticeship >\
-   📆 March,2023 - moment\
+   📆 March,2023 - Nov,2023\
    📍 **Coding Ninja** - Noida, India
    
  -  👨‍💻 **Trainee**-------------< Part Time >\
