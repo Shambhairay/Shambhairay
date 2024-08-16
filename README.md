@@ -67,7 +67,7 @@ technologies to meet future requirements.</br>
    📍 **Coding Ninja** - Noida, India
    
  -  👨‍💻 **Trainee**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
+   📆 Dec,2023 - July,2024\
    📍 **J-Spider** - Banglore, India
 
    </details>
