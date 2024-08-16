@@ -58,21 +58,17 @@ technologies to meet future requirements.</br>
    
    
  ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
+ -  👨‍💻 ** Web Developer**---------------------------< Internship >\
  📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
+📍 **TwoWaits Technologies** - New Delhi, India
    
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-   📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
+ -  👨‍💻 **Trainee**----------------------< Apprenticeship >\
+   📆 March,2023 - moment\
+   📍 **Coding Ninja** - Noida, India
    
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
+ -  👨‍💻 **Trainee**-------------< Part Time >\
    📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
+   📍 **J-Spider** - Banglore, India
 
    </details>
    
