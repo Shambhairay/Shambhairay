@@ -14,8 +14,8 @@ Currently I am pursuing a B.Tech in information technology from College of Engin
 
 ### ` Profile:`
 
-- 🌱 I’m currently in love with <b>Java</b>
-- 🔭 Simultaneously exploring <b>Web3</b>
+- 🌱 I’m currently in love with <b>Java,Python</b>
+- 🔭 Simultaneously exploring <b>Data analytics</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **shambhaviray1@gmail.com** 
