@@ -12,12 +12,7 @@ Currently I am pursuing a B.Tech in information technology from College of Engin
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shambhairay&&label=Profile%20views&color=32CD32&style=flat%22" alt="akankushjnvku" /> </p>
  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95281690/168138070-b920d1c0-de0b-4d02-896e-7ea11f2f46b0.gif"> 
 
-### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akankushjnvku/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
-[![HackerRank](https://www.hackerrank.com/skills-verification)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com)
+### ` Profile:`
 
 - 🌱 I’m currently in love with <b>Java</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
